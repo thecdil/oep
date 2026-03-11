@@ -6,6 +6,7 @@ date,Date Created,,,DCTERMS.date,dateCreated
 archival_date,Archival Date,,,,
 description,Collection Description,,,DCTERMS.description,description
 explanation,Librarian Explanation,,,,,
+relevant_standard,Relevant Standard,,,,,
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,DCTERMS.coverage,contentLocation
 latitude,Latitude,,,,
