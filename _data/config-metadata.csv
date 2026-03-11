@@ -4,7 +4,8 @@ collection_link,Link,,true,
 creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
 archival_date,Archival Date,,,,
-description,Description,,,DCTERMS.description,description
+description,Collection Description,,,DCTERMS.description,description
+explanation,Librarian Explanation,,,,,
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,DCTERMS.coverage,contentLocation
 latitude,Latitude,,,,
