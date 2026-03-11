@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://marcosvdotcom.github.io/
+url: https://thecdil.github.io/
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /OEP-CSV
+baseurl: /oep
 # location of code, the full url to your github repository
-source-code: https://github.com/marcosvdotcom/OEP_CSV/
+source-code: https://github.com/thecdil/oep
 
 ##########
 # SITE SETTINGS
@@ -20,7 +20,7 @@ source-code: https://github.com/marcosvdotcom/OEP_CSV/
 # title of site appears in banner
 title: University of Idaho Library Open Education Portal
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: UI Library + K-12 educators and students
+tagline: U of I Library + K-12 educators and students
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This portal hosts digital content curated to be of interest and use to K-12 educators in the state of Idaho."
@@ -50,11 +50,10 @@ metadata: oep
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-# Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+organization-name: "University of Idaho Library Digital Collections"
+organization-link: https://www.lib.uidaho.edu/digital/
+organization-logo-banner: https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png
+organization-logo-nav: https://www.lib.uidaho.edu/media/digital/liblogo_white.png
 
 ##########
 # ROBOTS EXCLUDE
