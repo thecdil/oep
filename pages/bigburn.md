@@ -29,7 +29,7 @@ The link below will take you the larger Big Burn Collection. All of the linked D
 
 ### Highlighted Items
 
-These are some highlighted items from the collection. 
+These are some highlighted items from the collection. Maybe we expand to include more librarian notes/context?
 
 {% include feature/image.html objectid="https://objects.lib.uidaho.edu/bigburn/bigburn23.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn11.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn27.jpg" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn23.html; https://www.lib.uidaho.edu/digital/bigburn/items/bigburn11.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn27.html" caption="An image of Wallace burning from the U of I's Big Burn Collection.; Forest fire aftermath, 1910 - Wallace, street view; Forest fire aftermath - Wallace, street view." alt="a large number of cut logs floating in Priest Lake; caption 2;horses" width="75; 60;75" %}
 
