@@ -58,7 +58,7 @@ These are some highlighted items from the collection. Maybe we expand to include
 
 {% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock1043.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock1043.html" caption="Photo of a group of four men who saved 40 men in the forest fire of 1910." alt="A black-and-white photograph of four men posing and facing the camera. One man sits on a wooden chair and the others stand behind him." width="75" %}
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock3694.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock3694.html" caption="An exterior view of the Worstell Company store in Wallace, Idaho, after the Big Burn forest fire of 1910." alt="A black-and-white photo of a brick bulding with burn markes and broken windows. The building is on a downtown street where a few people are walking." width="75" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock3694.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock3694.html" caption="An exterior view of the Worstell Company store in Wallace, Idaho, after the Big Burn forest fire of 1910." alt="A black-and-white photo of a brick building with burn marks and broken windows. The building is on a downtown street where a few people are walking." width="75" %}
 
 ### Fire Lines
 
