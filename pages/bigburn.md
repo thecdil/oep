@@ -10,6 +10,8 @@ permalink: /bigburn.html
 
 This Big Burn Inquiry Kit highlights digital resources curated with Idaho educators in mind. This page features basic context about a specific Idaho historical event, highlighted librarian-curated items, and links to larger collections teachers and students can explore.
 
+The larger collections used in this kit are: [Big Burn Collection](https://www.lib.uidaho.edu/digital/bigburn/), [Barnard-Stockbridge Photograph Collection](https://www.lib.uidaho.edu/digital/barstock/), and [Fire Lines](https://cdil.lib.uidaho.edu/fire-lines/).
+
 ## About the Big Burn
 
 
