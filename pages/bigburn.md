@@ -38,11 +38,11 @@ The link below will take you the Big Burn Collection. Designed like a digital mu
 
 These are some highlighted items from the collection. Maybe we expand to include more librarian notes/context?
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/bigburn/bigburn23.jpg" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn23.html" caption="An image of Wallace burning from the U of I's Big Burn Collection." width="75" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/bigburn/bigburn23.jpg" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn23.html" caption="A night time image of the forest fire burning buildings in Wallace, Idaho August 20, 1910." alt="A black-and-white photograph of a building on fire." width="75" %}
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/bigburn/bigburn11.jpg" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn11.html" caption="Forest fire aftermath, 1910 - Wallace, street view" width="75" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/bigburn/bigburn11.jpg" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn11.html" caption="An image of Wallace, Idaho taken five days after the fire of August 20, 1910" alt="A black-and-white photograph of several people looking at burnt buildings in a downtown area." width="75" %}
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/bigburn/bigburn27.jpg" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn27.html" caption="Forest fire aftermath - Wallace, street view." width="75" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/bigburn/bigburn27.jpg" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn27.html" caption="An street view of Wallace, Idaho after the fire of August 20, 1910. People can be seen in the distance assessing the damage" alt="A black-and-white photograph showing people walking near burnt buildings in a smoky area." width="75" %}
 
 ### Barnard-Stockbridge Photograph Collection
 
@@ -54,11 +54,11 @@ The link below will take you the Barnard-Stockbridge Photograph Collection. The 
 
 These are some highlighted items from the collection. Maybe we expand to include more librarian notes/context?
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock915.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock915.html" caption="From tank, looking Northwest at the town."  width="75" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock915.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock915.html" caption="An image of Wallace, Idaho in 1909. The view is from the water tank, looking Northwest at the town." alt="A black-and-white photograph from above a small mountain town." width="75" %}
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock1043.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock1043.html" caption="Forest fire August 20, 1910 - Group of men that saved 40 men in the forest fire of 1910." width="75" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock1043.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock1043.html" caption="Photo of a group of four men who saved 40 men in the forest fire of 1910." alt="A black-and-white photograph of four men posing and facing the camera. One man sits on a wooden chair and the others stand behind him." width="75" %}
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock3694.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock3694.html" caption="Worstell Company Store in Wallace, Idaho." width="75" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock3694.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock3694.html" caption="An exterior view of the Worstell Company store in Wallace, Idaho, after the Big Burn forest fire of 1910." alt="A black-and-white photo of a brick bulding with burn markes and broken windows. The building is on a downtown street where a few people are walking." width="75" %}
 
 ### Fire Lines
 
@@ -70,11 +70,11 @@ The link below will take you the Fire Lines digital essay. This is a collection 
 
 These are some highlighted items from the collection. Maybe we expand to include more librarian notes/context?
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/tpa/small/cda_tpa1910_sm.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/cda_tpa1910.html" caption="Coeur d'Alene Timber Protective Association Fifth Annual Report." width="50" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/tpa/small/cda_tpa1910_sm.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/cda_tpa1910.html" caption="The Coeur d'Alene Timber Protective Association Fifth Annual Report for 1910. This document contains reporting on both the damage from the fires and the fire management processes used." alt="A cover page featuring a red geometric pattern. Coeur d'Alene Timber Protective Association Fifth Annual Report 1910 is typed in stylized font." width="50" %}
 
-{% include feature/image.html objectid="https://cdil.lib.uidaho.edu/fire-lines/objects/small/when-the-mountains-roared_sm.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/im-14.html" caption="When the Mountains Roared: Stories of the 1910 Fire. Publication by the US Forest Service." width="50" %}
+{% include feature/image.html objectid="https://cdil.lib.uidaho.edu/fire-lines/objects/small/when-the-mountains-roared_sm.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/im-14.html" caption="When the Mountains Roared: Stories of the 1910 Fire. Publication by the US Forest Service. This document was written by the Supervisor of the Lolo Forest 32 years after the 1910 forest fire to serve as an informal record of the fire history of that year." alt="A cover page titled When the Mountains Roared, Stories of the 1910 Fire. United States Department of Agriculture, Forest Service, Idaho Panhandle National Forests. A black-and white image of pine trees surrounded by fire is below the title"  width="50" %}
 
-{% include feature/image.html objectid="/objects/drader_thesis.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/im-15.html" caption="Nez Perce perspectives on fire management and program accessibility. Master of Science thesis by Daniella Ruth Lorincz Drader." width="50" %}
+{% include feature/image.html objectid="/objects/drader_thesis.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/im-15.html" caption="Nez Perce perspectives on fire management and program accessibility. This Master of Science thesis by Daniella Ruth Lorincz Drader identifies barriers that inhibit access to and participation in current fire management programs as told from the perspectives and experiences of members of the Nez Perce Tribe on their reservation." alt="A white page displaying bibliographic information. It reads: Nez Perce Perspectives on Fire Management and Program Accessibility by Daniella Ruth Lorincz Drader. A thesis submitted in partial fulfillment of the requirements for the degree of Master of Science in Natural Resource Sciences, Washington State University, Department of Natural Resource Sciences, August 2009." width="50" %}
 
 ## Relevant standard
 
