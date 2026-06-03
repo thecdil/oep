@@ -15,7 +15,7 @@ The larger collections used in this kit are: [Big Burn Collection](https://www.l
 ## About the 1910 Forest Fires
 
 
-The Big Burn Inquiry Kit is an online showcase of historical materials related to the unprecedented forest fires of 1910 that devastated much of northern Idaho and northwestern Montana. In proceeding years the fires came to be known as the "Big Burn" or "Big Blowup." This teaching collection includes photographs, documents, first-person accounts, and oral histories pertaining to the fires, as well as the local and national responses to them.
+The 1910 Forest Fires Inquiry Kit is an online showcase of historical materials related to the unprecedented forest fires of 1910 that devastated much of northern Idaho and northwestern Montana. In proceeding years the fires came to be known as the "Big Burn" or "Big Blowup." This teaching collection includes photographs, documents, first-person accounts, and oral histories pertaining to the fires, as well as the local and national responses to them.
 
 Students are often interested to learn that a special kind of firefighting axe, still used widely today, was named after Edward Pulaski. Pulaski heroically saved many lives outside of Wallace, Idaho during the peak of the fires from August 20th to 21st, 1910.
 
