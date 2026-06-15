@@ -27,11 +27,7 @@ Generally speaking, most digital archives represent just a fraction of their lar
 
 ## Creating Inquiry Questions 
 
-The Library of Congress has published a useful template for teaching with primary sources. Link [https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/](https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/) 
-
-[https://www.loc.gov/static/programs/teachers/getting-started-with-primary-sources/documents/Analyzing\_Primary\_Sources.pdf]
-(https://www.loc.gov/static/programs/teachers/getting-started-with-primary-sources/documents/Analyzing_Primary_Sources.pdf) 
-
+The Library of Congress has published a useful [template](https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/) for teaching with primary sources.
  
 
 ### **Engage students with primary sources** 
