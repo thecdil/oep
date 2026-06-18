@@ -1,5 +1,5 @@
 ---
-title: About
+title: About the Idaho Student History Hub
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
@@ -9,7 +9,7 @@ about-featured-image: demo_031
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
-heading: About the Collection
+heading: About the Idaho Student History Hub
 # paragraph text below heading in featured image
 sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
@@ -18,22 +18,18 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+## About 
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The Idaho Student History Hub at the University of Idaho Library curates our outstanding digital collections with an eye towards engaging more K-12 educators with these resources. The collections in this portal were selected based on their ability to tell the story of Idaho, highlighting local history while also situating Idaho within national and global events. Each collection includes a description of how the collection might be used in the classroom as well as Idaho State Standards it could support. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+While K-12 educators can utilize the collections themselves, this portal also offers inquiry kits inspired by [Library of Congress Student Discovery Sets](https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/student-discovery-sets/) and [Maryland Inquiry Kits for Social Studies](https://thinkport.org/tps/inquiry-kits.html). Our kits pull together items and collections pertaining to a specific topic, such as the Big Burn and environmental history.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Educators are invited to suggest additional state standards relevant to these collections, as well as ideas for new inquiry kits.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+This portal was created using U of I Library’s local built tools, CollectionBuilder. CollectionBuilder has received national recognition for being an innovative, cost-effective way to create and share digital collection websites. 
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+## History
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+University of Idaho’s Library is proud to offer online access to more than 150 digitized historical collections, open access resources, and digital humanities projects. A significant number of those educational tools are dedicated to Idaho’s history. Taken together, U of I Library’s digital collections provide instant access to more primary sources about Idaho than any other online platform. For busy educators, however, it is not always easy to find these digital collections and navigate their contents. The \[portal name\] was developed to assist teachers in Idaho’s classrooms identify historical resources that can bring local history to life and situate the state in broader national or international stories.  
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The Idaho Student History hub is  the next iteration of efforts first undertaken in 2018 by educators at U of I who recognized the value of using digital collection primary sources in the K-12 classroom setting. *Idaho Histories* is an open-access ebook created by U of I faculty Marco Seiferle-Valencia and Rebekka Boysen-Taylor that highlights often-overlooked histories of the University of Idaho, the Palouse region, and Idaho in general. The ebook was originally developed in collaboration with Moscow middle school students who helped identify what they wanted to learn about Idaho history. The project uses digitized primary sources from traditional archives and documents to tell micro-histories that fill out local and regional narratives, with the goal of inspiring educators and lifelong learners to think critically about how history is made and to keep regional histories alive and accessible. 
