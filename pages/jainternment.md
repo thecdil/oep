@@ -1,0 +1,70 @@
+---
+title: Japanese American Experiences of Internment
+layout: about
+permalink: /jainternment.html
+---
+
+# Japanese American Experiences of Internment
+
+## How to use this page
+
+This 1910 Forest Fires Inquiry Kit highlights digital resources curated with Idaho educators in mind. This page features basic context about a specific Idaho historical event, highlighted librarian-curated items, and links to larger collections teachers and students can explore.
+
+The larger collections used in this kit are: 
+- [Big Burn Collection](https://www.lib.uidaho.edu/digital/bigburn/), 
+- [Barnard-Stockbridge Photograph Collection](https://www.lib.uidaho.edu/digital/barstock/), and 
+- [Fire Lines](https://cdil.lib.uidaho.edu/fire-lines/).
+Kooskia Internment Camp Scrapbook 
+Shitamae family letters 
+Idaho Histories 
+
+
+## About Japanese American Experiences of Internment
+
+The University of Idaho Special Collections are home to a number of collections that provide invaluable glimpses into the lives of Japanese Americans incarcerated during World War II. Kooskia, an internment camp that at one point housed 250 to 300 Japanese men, most of whom were long term US residents, but not legally citizens, is little over a two hour drive away from the University of Idaho. 
+
+For many K-12 learners, visiting a digital collection like those highlighted below helps provide perspective, detail, and localizing context to an important historical event that is often only minimally covered in standard curriculums. The Minidoka War Relocation Center, which was Idaho’s only official War Relocation Authority camp for Japanese American Families (in contrast to the smaller Department of Justice camp Kooskia, which primarily housed recent immigrants who were arrested after the attack on Pearl Harbor) was near Jerome, Idaho. 
+
+
+{% include feature/image.html caption="An image of African American soldiers from the 25th Infantry, known as Buffalo Soldiers in a work site near Avery, ID. In August, 1910, four thousand soldiers were brought in to help fight the fire, including seven companies from the 25th Infantry, often better known as the Buffalo Soldiers. Across the West, these soldiers served as the first park rangers, and the iconic Park Service hats—including that worn by Smokey Bear—are modeled after the hats worn by Buffalo Soldiers at the time (which can be seen in this photograph).;Forest ranger Edward Pulaski was leading a 45-man crew on August 20th, 1910 when forest fires overwhelmed them along Placer Creek, near Wallace, Idaho. In an act of quick thinking, Pulaski led his team to an abandoned mine tunnel to shelter from the intense heat and smoke of the flames. All but six men survived thanks to his leadership and knowledge of the forest and fire. The conditions he saw during the 1910 fire inspired him to invent the Pulaski firefighting axe, which has a broad horizontal blade on one side for digging and a sharp vertical blade on the other for chopping.;The fire being put out at the Ryan Hotel on Cedar Street in Wallace, Idaho." objectid="https://cdil.lib.uidaho.edu/fire-lines/objects/small/im-33_sm.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn35.jpg;https://objects.lib.uidaho.edu/barstock/barstock1691.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/im-33.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn35.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock1691.html" %}
+
+
+## Featured Digital Collections
+All of the linked Digital Collections follow a pretty standard format. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at this ~ link to be created ~ .
+
+### Kooskia Internment Camp Scrapbook 
+
+The link below will take you the Big Burn Collection. Designed like a digital museum exhibit, this collection brings together historic photos of the fire and its aftermath, copies of telegrams from those trying to fight the fire, and reflections from people who lived through the event. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at this ~ link to be created ~ .
+
+{% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/bigburn/" color="success" centered=true %}
+
+#### Highlighted Items
+
+These are some highlighted items from the collection. 
+
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/bigburn/bigburn23.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn11.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn27.jpg" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn23.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn11.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn27.html" caption="A night time image of the forest fire burning buildings in Wallace, Idaho August 20, 1910.;An image of Wallace, Idaho taken five days after the fire of August 20, 1910.;A street view of Wallace, Idaho after the fire of August 20, 1910. People can be seen in the distance assessing the damage." alt="A black-and-white photograph of a building on fire.;A black-and-white photograph of several people looking at burnt buildings in a downtown area.;A black-and-white photograph showing people walking near burnt buildings in a smoky area." %}
+
+### Idaho Histories 
+
+The link below will take you the Barnard-Stockbridge Photograph Collection. The epicenter of the 1910 forest fire was Wallace, Idaho. Luckily for researchers, Wallace was also home to the Barnard-Stockbridge photography studio, which captured thousands of images of the area before, during, and after the “Big Burn.”  You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at this ~ link to be created ~ .
+
+{% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/barstock/" color="success" centered=true %}
+
+#### Highlighted Items
+
+These are some highlighted items from the collection. Maybe we expand to include more librarian notes/context?
+
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock915.jpg;https://objects.lib.uidaho.edu/barstock/barstock1043.jpg;https://objects.lib.uidaho.edu/barstock/barstock3694.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock915.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock1043.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock3694.html" caption="An image of Wallace, Idaho in 1909. The view is from the water tank, looking Northwest at the town.;Photo of a group of four men who saved 40 men in the forest fire of 1910.;An exterior view of the Worstell Company store in Wallace, Idaho, after the Big Burn forest fire of 1910." alt="A black-and-white photograph from above a small mountain town.;A black-and-white photograph of four men posing and facing the camera. One man sits on a wooden chair and the others stand behind him;A black-and-white photo of a brick building with burn marks and broken windows. The building is on a downtown street where a few people are walking." %}
+
+
+## Relevant standard
+
+4.SS.1.2.2 Describe the role of fur trading and the discovery of gold and silver in the settlement of Idaho
+
+### Suggest a standard
+
+Are you a teacher in Idaho using this resource in the classroom? Suggest a standard you think might apply 
+
+
+# Notes
+[^1]: This is a way to add footnotes.

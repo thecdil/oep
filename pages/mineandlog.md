@@ -1,24 +1,22 @@
 ---
-title: 1910 Forest Fires Inquiry Kit
+title: Idaho History of Mining and Logging
 layout: about
-permalink: /bigburn.html
+permalink: /mineandlog.html
 ---
 
-# 1910 Forest Fires
+# Idaho History of Mining and Logging
 
 ## How to use this page
 
-This 1910 Forest Fires Inquiry Kit highlights digital resources curated with Idaho educators in mind. This page features basic context about a specific Idaho historical event, highlighted librarian-curated items, and links to larger collections teachers and students can explore.
+This Mining and Logging Inquiry Kit highlights digital resources curated with Idaho educators in mind. This page features basic context about a specific Idaho historical event, highlighted librarian-curated items, and links to larger collections teachers and students can explore.
 
 The larger collections used in this kit are: [Big Burn Collection](https://www.lib.uidaho.edu/digital/bigburn/), [Barnard-Stockbridge Photograph Collection](https://www.lib.uidaho.edu/digital/barstock/), and [Fire Lines](https://cdil.lib.uidaho.edu/fire-lines/).
 
-## About the 1910 Forest Fires
+## About the topic - About the 1910 Forest Fires
 
-The Big Burn Inquiry Kit is an online showcase of historical materials related to the unprecedented forest fires of 1910 that devastated much of northern Idaho and northwestern Montana. In proceeding years, the fires came to be known as the "Big Burn" or "Big Blowup." This teaching collection includes photographs, documents, first-person accounts, and oral histories pertaining to the fires, as well as the local and national responses to them.  
+TBD
 
- Students are often interested to learn that a special kind of firefighting axe, still used widely today, was named after Edward Pulaski. Pulaski heroically saved many lives outside of Wallace, Idaho during the peak of the fires from August 20th to 21st, 1910. Another point of connection for students comes from learning about the courageous work of 4,000 soldiers in the 25th Infantry sent to Avery, Idaho to rescue residents. The segregated regiment of troops, known collectively as the "Buffalo Soldiers," left a lasting impact in the region. 
-
-{% include feature/image.html caption="An image of African American soldiers from the 25th Infantry, known as Buffalo Soldiers in a work site near Avery, ID. In August, 1910, four thousand soldiers were brought in to help fight the fire, including seven companies from the 25th Infantry, often better known as the Buffalo Soldiers. Across the West, these soldiers served as the first park rangers, and the iconic Park Service hats—including that worn by Smokey Bear—are modeled after the hats worn by Buffalo Soldiers at the time (which can be seen in this photograph).;Forest ranger Edward Pulaski was leading a 45-man crew on August 20th, 1910 when forest fires overwhelmed them along Placer Creek, near Wallace, Idaho. In an act of quick thinking, Pulaski led his team to an abandoned mine tunnel to shelter from the intense heat and smoke of the flames. All but six men survived thanks to his leadership and knowledge of the forest and fire. The conditions he saw during the 1910 fire inspired him to invent the Pulaski firefighting axe, which has a broad horizontal blade on one side for digging and a sharp vertical blade on the other for chopping.;The fire being put out at the Ryan Hotel on Cedar Street in Wallace, Idaho. Needs more context if we use this one!!!" objectid="https://cdil.lib.uidaho.edu/fire-lines/objects/small/im-33_sm.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn35.jpg;https://objects.lib.uidaho.edu/barstock/barstock1691.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/im-33.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn35.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock1691.html" %}
+{% include feature/image.html caption="An image of African American soldiers from the 25th Infantry, known as Buffalo Soldiers in a work site near Avery, ID. In August, 1910, four thousand soldiers were brought in to help fight the fire, including seven companies from the 25th Infantry, often better known as the Buffalo Soldiers. Across the West, these soldiers served as the first park rangers, and the iconic Park Service hats—including that worn by Smokey Bear—are modeled after the hats worn by Buffalo Soldiers at the time (which can be seen in this photograph).;Forest ranger Edward Pulaski was leading a 45-man crew on August 20th, 1910 when forest fires overwhelmed them along Placer Creek, near Wallace, Idaho. In an act of quick thinking, Pulaski led his team to an abandoned mine tunnel to shelter from the intense heat and smoke of the flames. All but six men survived thanks to his leadership and knowledge of the forest and fire. The conditions he saw during the 1910 fire inspired him to invent the Pulaski firefighting axe, which has a broad horizontal blade on one side for digging and a sharp vertical blade on the other for chopping.;The fire being put out at the Ryan Hotel on Cedar Street in Wallace, Idaho." objectid="https://cdil.lib.uidaho.edu/fire-lines/objects/small/im-33_sm.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn35.jpg;https://objects.lib.uidaho.edu/barstock/barstock1691.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/im-33.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn35.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock1691.html" %}
 
 
 ## Featured Digital Collections
@@ -44,7 +42,7 @@ The link below will take you the Barnard-Stockbridge Photograph Collection. The 
 
 #### Highlighted Items
 
-These are some highlighted items from the collection. 
+These are some highlighted items from the collection. Maybe we expand to include more librarian notes/context?
 
 {% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock915.jpg;https://objects.lib.uidaho.edu/barstock/barstock1043.jpg;https://objects.lib.uidaho.edu/barstock/barstock3694.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock915.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock1043.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock3694.html" caption="An image of Wallace, Idaho in 1909. The view is from the water tank, looking Northwest at the town.;Photo of a group of four men who saved 40 men in the forest fire of 1910.;An exterior view of the Worstell Company store in Wallace, Idaho, after the Big Burn forest fire of 1910." alt="A black-and-white photograph from above a small mountain town.;A black-and-white photograph of four men posing and facing the camera. One man sits on a wooden chair and the others stand behind him;A black-and-white photo of a brick building with burn marks and broken windows. The building is on a downtown street where a few people are walking." %}
 
@@ -56,7 +54,7 @@ The link below will take you the Fire Lines digital essay. This is a collection 
 
 #### Highlighted Items
 
-These are some highlighted items from the collection. 
+These are some highlighted items from the collection. Maybe we expand to include more librarian notes/context?
 
 {% include feature/image.html objectid="https://objects.lib.uidaho.edu/tpa/small/cda_tpa1910_sm.jpg;https://cdil.lib.uidaho.edu/fire-lines/objects/small/when-the-mountains-roared_sm.jpg;/objects/drader_thesis.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/cda_tpa1910.html;https://cdil.lib.uidaho.edu/fire-lines/items/im-14.html;https://cdil.lib.uidaho.edu/fire-lines/items/im-15.html" caption="The Coeur d'Alene Timber Protective Association Fifth Annual Report for 1910. This document contains reporting on both the damage from the fires and the fire management processes used.;When the Mountains Roared: Stories of the 1910 Fire. Publication by the US Forest Service. This document was written by the Supervisor of the Lolo Forest 32 years after the 1910 forest fire to serve as an informal record of the fire history of that year.;Nez Perce perspectives on fire management and program accessibility. This Master of Science thesis by Daniella Ruth Lorincz Drader identifies barriers that inhibit access to and participation in current fire management programs as told from the perspectives and experiences of members of the Nez Perce Tribe on their reservation." alt="A cover page featuring a red geometric pattern. Coeur d'Alene Timber Protective Association Fifth Annual Report 1910 is typed in stylized font.;A cover page titled When the Mountains Roared, Stories of the 1910 Fire. United States Department of Agriculture, Forest Service, Idaho Panhandle National Forests. A black-and white image of pine trees surrounded by fire is below the title;A white page displaying bibliographic information. It reads: Nez Perce Perspectives on Fire Management and Program Accessibility by Daniella Ruth Lorincz Drader. A thesis submitted in partial fulfillment of the requirements for the degree of Master of Science in Natural Resource Sciences, Washington State University, Department of Natural Resource Sciences, August 2009." %}
 
@@ -70,4 +68,4 @@ Are you a teacher in Idaho using this resource in the classroom? Suggest a stand
 
 
 # Notes
-[^1]: The term “Buffalo Soldier” is historic in nature and not always the preferred moniker for Black soldiers. For more information, see: https://buffalosoldiersmuseum.org/the-buffalo-soldiers/
+[^1]: This is a way to add footnotes.

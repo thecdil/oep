@@ -12,22 +12,29 @@ Navigating archives can be overwhelming and time-consuming, so much so that many
 
 Key-terms to know: 
 
-* Collection – Collections are just what they sound like, groupings of related items held together. For each inquiry kit we highlight at least three relevant collections. The University of Idaho Special Collections and Archives are home to over NUMBER of collections.   
+* Collection – Collections are just what they sound like, groupings of related items held together. For each inquiry kit we highlight at least three relevant collections. The University of Idaho Special Collections and Archives are home to over 150 collections.   
 * Digital Collection – This is when an archival collection has been made available in digital format.   
 * Records – Records is the one-size fits all term for the things that make up archival collections. Most often they are paper documents or photographs.  
 
-University of Idaho digital collections share an underlying template, which makes navigating these sites easy once you learn how it works. Up top on a standard collection page you’ll see a few links; Browse is usually the best place to start. Browse basically shows you all the records in that collection, with a little image preview and some basic metadata. You can click keywords to filter by terms, or you can you experiment with typing in a free text search up top. Once you click on a record, you’ll see a larger image along with some basic metadata describing the item. 
+University of Idaho digital collections share an underlying template, which makes navigating these sites easy once you learn how it works. 
+
+Up top on a standard collection page you’ll see a few links; Browse is usually the best place to start. Browse basically shows you all the records in that collection, with a little image preview and some basic metadata. You can click keywords to filter by terms, or you can you experiment with typing in a free text search up top. Once you click on a record, you’ll see a larger image along with some basic metadata describing the item. 
+
+~ gif to be created showing browse ~
 
 Most University of Idaho Digital Collections sites also feature a way to visualize information about the collection, typically a timeline that shows items in chronological order, a map that shows geographic data, and a weighted word cloud that shows how often particular terms occur.  
 
+~ gif to be created showing infovis ~
 
 ## What gets digitized/What is online? 
 
-Generally speaking, most digital archives represent just a fraction of their larger physical collections. This is because digitizing, such as scanning documents or photos, takes time, and money\! Digital archivists must decide which items will be one of the lucky few that are made into what you see online when you browse a digital collection. Digital archivists tend to prioritize digitizing collections that feature items people are curious to see or learn more about, such as those items that have been frequently requested by community members.  
+Generally speaking, most digital archives represent just a fraction of their larger physical collections. This is because digitizing, such as scanning documents or photos, takes time, and money! Digital archivists must decide which items will be one of the lucky few that are made into what you see online when you browse a digital collection. Digital archivists tend to prioritize digitizing collections that feature items people are curious to see or learn more about, such as those items that have been frequently requested by community members.  
 
 ## Creating Inquiry Questions 
 
-The Library of Congress has published a useful [template](https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/) for teaching with primary sources.
+The Library of Congress has published a useful [template](https://www.loc.gov/programs/teachers/getting-started-with-primary-sources/) for teaching with primary sources. 
+
+~ some kind of a well or other callout for this directly copied content ?? ~ 
  
 
 ### **Engage students with primary sources** 
