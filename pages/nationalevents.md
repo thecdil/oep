@@ -1,3 +1,9 @@
+---
+title: Idaho Regional Oral Histories
+layout: about
+permalink: /nationalevents.html
+---
+
 # Idaho Connections to National Events
 
 ## How to use this page
