@@ -11,17 +11,17 @@ permalink: /idahowomen.html
 This Idaho Women's History Inquiry Kit highlights digital resources curated with Idaho educators in mind. This page features basic context about a specific Idaho historical event or topic, highlighted librarian-curated items, and links to larger collections teachers and students can explore.
 
 The larger collections used in this kit are: 
--[Rural Women's History Project](https://www.lib.uidaho.edu/digital/rwhp/),
--[Latah County Oral History Collection](https://www.lib.uidaho.edu/digital/lcoh/)
+- [Rural Women's History Project](https://www.lib.uidaho.edu/digital/rwhp/),
+- [Latah County Oral History Collection](https://www.lib.uidaho.edu/digital/lcoh/)
 
 
 ## About Idaho Women's History
 
 The Women's History of Idaho Inquiry Kit highlights digital collections that highlight the history and contributions of women to the state of Idaho.
 
-K-12 learners are often intrigued to learn more about Idaho’s sometimes surprising history of women’s suffrage. Idaho became the fourth state in the nation to grant women the right to vote in 1896—more than twenty years before the 19th Amendment gave many women voting rights nationwide in 1920. Idaho women, such as Rebecca Mithcell, played an active role in organizing, campaigning, and advocating for suffrage, helping shape both state and national conversations about equality and civic participation. 
+K-12 learners are often intrigued to learn more about Idaho’s sometimes surprising history of women’s suffrage. Idaho became the fourth state in the nation to grant women the right to vote in 1896—more than twenty years before the 19th Amendment gave many women voting rights nationwide in 1920. Idaho women, such as Rebecca Mitchell, played an active role in organizing, campaigning, and advocating for suffrage, helping shape both state and national conversations about equality and civic participation. 
 
-{% include feature/image.html caption="An image of African American soldiers from the 25th Infantry, known as Buffalo Soldiers in a work site near Avery, ID. In August, 1910, four thousand soldiers were brought in to help fight the fire, including seven companies from the 25th Infantry, often better known as the Buffalo Soldiers. Across the West, these soldiers served as the first park rangers, and the iconic Park Service hats—including that worn by Smokey Bear—are modeled after the hats worn by Buffalo Soldiers at the time (which can be seen in this photograph).;Forest ranger Edward Pulaski was leading a 45-man crew on August 20th, 1910 when forest fires overwhelmed them along Placer Creek, near Wallace, Idaho. In an act of quick thinking, Pulaski led his team to an abandoned mine tunnel to shelter from the intense heat and smoke of the flames. All but six men survived thanks to his leadership and knowledge of the forest and fire. The conditions he saw during the 1910 fire inspired him to invent the Pulaski firefighting axe, which has a broad horizontal blade on one side for digging and a sharp vertical blade on the other for chopping.;The fire being put out at the Ryan Hotel on Cedar Street in Wallace, Idaho." objectid="https://cdil.lib.uidaho.edu/fire-lines/objects/small/im-33_sm.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn35.jpg;https://objects.lib.uidaho.edu/barstock/barstock1691.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/im-33.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn35.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock1691.html" %}
+{% include feature/image.html caption="Mona Graham Hubenthal was a community activist in Lewiston. This image links to an interview in which she discusses her experience with community activism.;Lola Gamble Clyde was a local historian in Moscow. This image links to a section from an interview in which she discusses the women's rights movement." objectid="https://objects.lib.uidaho.edu/rwhp/small/mg68-2-78-mona-graham-hubenthal_sm.jpg;https://objects.lib.uidaho.edu/lcoh/small/Clyde-L_04.jpg" link="https://www.lib.uidaho.edu/digital/rwhp/items/rwhp186.html;https://www.lib.uidaho.edu/digital/lcoh/people/clyde_lola_5.html" width="50%" %}
 
 
 ## Featured Digital Collections
@@ -29,15 +29,15 @@ All of the linked Digital Collections follow a pretty standard format. You can l
 
 ### Rural Women's History Project
 
-The link below will take you the Big Burn Collection. Designed like a digital museum exhibit, this collection brings together historic photos of the fire and its aftermath, copies of telegrams from those trying to fight the fire, and reflections from people who lived through the event. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at this ~ link to be created ~ .
+The link below will take you the Rural Women's History Project. This collection consists of a collection of interviews that were designed and carried out by the [University of Idaho Women's Center](https://www.lib.uidaho.edu/digital/womenscenter/) in 1974 and selected to be digitized in 1974. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How to Use](https://thecdil.github.io/oep/howto.html).
 
-{% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/bigburn/" color="success" centered=true %}
+{% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/rwhp/" color="success" centered=true %}
 
 #### Highlighted Items
 
 These are some highlighted items from the collection. 
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/bigburn/bigburn23.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn11.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn27.jpg" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn23.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn11.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn27.html" caption="A night time image of the forest fire burning buildings in Wallace, Idaho August 20, 1910.;An image of Wallace, Idaho taken five days after the fire of August 20, 1910.;A street view of Wallace, Idaho after the fire of August 20, 1910. People can be seen in the distance assessing the damage." alt="A black-and-white photograph of a building on fire.;A black-and-white photograph of several people looking at burnt buildings in a downtown area.;A black-and-white photograph showing people walking near burnt buildings in a smoky area." %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/rwhp/thumbs/mg68-2-89-index_th.jpg;https://objects.lib.uidaho.edu/rwhp/small/mg68-2-81-mabel-louise-scribner001_sm.jpg;https://objects.lib.uidaho.edu/rwhp/small/mg68-2-80-elsie-nelson_sm.jpg" link="https://www.lib.uidaho.edu/digital/rwhp/items/rwhp338.html;https://www.lib.uidaho.edu/digital/rwhp/items/rwhp346.html;https://www.lib.uidaho.edu/digital/rwhp/items/rwhp279.html" caption="In this interview, Deanna Robbins discusses her life in Moscow. The topics covered include birth, doctors, family life, and the differences between city and country living.; In this interview, Mabel Louise Scribner discusses her life in Avery and St. Maries. The topics covered include American citizenship, recreation, marriage, and domestic work.; In this interview, Elsie Nelson discusses her life near Moscow. The topics covered include homesteading, education, and employment." alt="A typewritten outline of an interview.;A white woman with gray hair and glasses sits on a couch and looks at the camera.;A black-and-white head shot of a white woman with short hair and glasses sitting on a chair." %}
 
 ### Latah County Oral History Collection
 
