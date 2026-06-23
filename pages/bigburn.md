@@ -13,7 +13,7 @@ This 1910 Forest Fires Inquiry Kit highlights digital resources curated with Ida
 The larger collections used in this kit are:
 - [Big Burn Collection](https://www.lib.uidaho.edu/digital/bigburn/)
 - [Barnard-Stockbridge Photograph Collection](https://www.lib.uidaho.edu/digital/barstock/)
-- [Fire Lines](https://cdil.lib.uidaho.edu/fire-lines/).
+- [Fire Lines](https://cdil.lib.uidaho.edu/fire-lines/)
 
 ## About the 1910 Forest Fires
 
