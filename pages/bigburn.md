@@ -10,23 +10,26 @@ permalink: /bigburn.html
 
 This 1910 Forest Fires Inquiry Kit highlights digital resources curated with Idaho educators in mind. This page features basic context about a specific Idaho historical event, highlighted librarian-curated items, and links to larger collections teachers and students can explore.
 
-The larger collections used in this kit are: [Big Burn Collection](https://www.lib.uidaho.edu/digital/bigburn/), [Barnard-Stockbridge Photograph Collection](https://www.lib.uidaho.edu/digital/barstock/), and [Fire Lines](https://cdil.lib.uidaho.edu/fire-lines/).
+The larger collections used in this kit are:
+- [Big Burn Collection](https://www.lib.uidaho.edu/digital/bigburn/)
+- [Barnard-Stockbridge Photograph Collection](https://www.lib.uidaho.edu/digital/barstock/)
+- [Fire Lines](https://cdil.lib.uidaho.edu/fire-lines/).
 
 ## About the 1910 Forest Fires
 
 The Big Burn Inquiry Kit is an online showcase of historical materials related to the unprecedented forest fires of 1910 that devastated much of northern Idaho and northwestern Montana. In proceeding years, the fires came to be known as the "Big Burn" or "Big Blowup." This teaching collection includes photographs, documents, first-person accounts, and oral histories pertaining to the fires, as well as the local and national responses to them.  
 
- Students are often interested to learn that a special kind of firefighting axe, still used widely today, was named after Edward Pulaski. Pulaski heroically saved many lives outside of Wallace, Idaho during the peak of the fires from August 20th to 21st, 1910. Another point of connection for students comes from learning about the courageous work of 4,000 soldiers in the 25th Infantry sent to Avery, Idaho to rescue residents. The segregated regiment of troops, known collectively as the "Buffalo Soldiers," left a lasting impact in the region. 
+ Students are often interested to learn that a special kind of firefighting axe, still used widely today, was named after Edward Pulaski. Pulaski heroically saved many lives outside of Wallace, Idaho during the peak of the fires from August 20th to 21st, 1910. Another point of connection for students comes from learning about the courageous work of 4,000 soldiers in the 25th Infantry sent to Avery, Idaho to rescue residents. The segregated regiment of troops, known collectively as the "Buffalo Soldiers[^1]," left a lasting impact in the region. 
 
-{% include feature/image.html caption="An image of African American soldiers from the 25th Infantry, known as Buffalo Soldiers in a work site near Avery, ID. In August, 1910, four thousand soldiers were brought in to help fight the fire, including seven companies from the 25th Infantry, often better known as the Buffalo Soldiers. Across the West, these soldiers served as the first park rangers, and the iconic Park Service hats—including that worn by Smokey Bear—are modeled after the hats worn by Buffalo Soldiers at the time (which can be seen in this photograph).;Forest ranger Edward Pulaski was leading a 45-man crew on August 20th, 1910 when forest fires overwhelmed them along Placer Creek, near Wallace, Idaho. In an act of quick thinking, Pulaski led his team to an abandoned mine tunnel to shelter from the intense heat and smoke of the flames. All but six men survived thanks to his leadership and knowledge of the forest and fire. The conditions he saw during the 1910 fire inspired him to invent the Pulaski firefighting axe, which has a broad horizontal blade on one side for digging and a sharp vertical blade on the other for chopping.;The fire being put out at the Ryan Hotel on Cedar Street in Wallace, Idaho. Needs more context if we use this one!!!" objectid="https://cdil.lib.uidaho.edu/fire-lines/objects/small/im-33_sm.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn35.jpg;https://objects.lib.uidaho.edu/barstock/barstock1691.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/im-33.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn35.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock1691.html" %}
+{% include feature/image.html caption="An image of African American soldiers from the 25th Infantry, known as Buffalo Soldiers in a work site near Avery, ID. In August, 1910, four thousand soldiers were brought in to help fight the fire, including seven companies from the 25th Infantry, often better known as the Buffalo Soldiers. Across the West, these soldiers served as the first park rangers, and the iconic Park Service hats—including that worn by Smokey Bear—are modeled after the hats worn by Buffalo Soldiers at the time (which can be seen in this photograph).;Forest ranger Edward Pulaski was leading a 45-man crew on August 20th, 1910 when forest fires overwhelmed them along Placer Creek, near Wallace, Idaho. In an act of quick thinking, Pulaski led his team to an abandoned mine tunnel to shelter from the intense heat and smoke of the flames. All but six men survived thanks to his leadership and knowledge of the forest and fire. The conditions he saw during the 1910 fire inspired him to invent the Pulaski firefighting axe, which has a broad horizontal blade on one side for digging and a sharp vertical blade on the other for chopping.;The fire being put out at the Ryan Hotel on Cedar Street in Wallace, Idaho." objectid="https://cdil.lib.uidaho.edu/fire-lines/objects/small/im-33_sm.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn35.jpg;https://objects.lib.uidaho.edu/barstock/barstock1691.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/im-33.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn35.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock1691.html" %}
 
 
 ## Featured Digital Collections
-All of the linked Digital Collections follow a pretty standard format. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at this ~ link to be created ~ .
+All of the linked Digital Collections follow a pretty standard format. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How To Use](https://thecdil.github.io/oep/howto.html).
 
 ### The Big Burn Collection
 
-The link below will take you the Big Burn Collection. Designed like a digital museum exhibit, this collection brings together historic photos of the fire and its aftermath, copies of telegrams from those trying to fight the fire, and reflections from people who lived through the event. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at this ~ link to be created ~ .
+The link below will take you the Big Burn Collection. Designed like a digital museum exhibit, this collection brings together historic photos of the fire and its aftermath, copies of telegrams from those trying to fight the fire, and reflections from people who lived through the event. You can learn more about how to navigate a digital collection, with K-12 teaching in mind,at [How To Use](https://thecdil.github.io/oep/howto.html).
 
 {% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/bigburn/" color="success" centered=true %}
 
@@ -38,7 +41,9 @@ These are some highlighted items from the collection.
 
 ### Barnard-Stockbridge Photograph Collection
 
-The link below will take you the Barnard-Stockbridge Photograph Collection. The epicenter of the 1910 forest fire was Wallace, Idaho. Luckily for researchers, Wallace was also home to the Barnard-Stockbridge photography studio, which captured thousands of images of the area before, during, and after the “Big Burn.”  You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at this ~ link to be created ~ .
+The link below will take you the Barnard-Stockbridge Photograph Collection. The epicenter of the 1910 forest fire was Wallace, Idaho. Luckily for researchers, Wallace was also home to the Barnard-Stockbridge photography studio, which captured thousands of images of the area before, during, and after the “Big Burn.” 
+
+You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How To Use](https://thecdil.github.io/oep/howto.html).
 
 {% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/barstock/" color="success" centered=true %}
 
@@ -50,7 +55,9 @@ These are some highlighted items from the collection.
 
 ### Fire Lines
 
-The link below will take you the Fire Lines digital essay. This is a collection of primary sources that informed an essay about how the 1910 fires informed forest management policy throughout the 20th century. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at this ~ link to be created ~ .
+The link below will take you the Fire Lines digital essay. This is a collection of primary sources that informed an essay about how the 1910 fires informed forest management policy throughout the 20th century.
+
+You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How To Use](https://thecdil.github.io/oep/howto.html).
 
 {% include feature/button.html text="Explore the project" link="https://cdil.lib.uidaho.edu/fire-lines/" color="success" centered=true %}
 
