@@ -18,7 +18,6 @@ The larger collections used in this kit are:
 
 Learn more about teaching with special collections at our [how to guide](https://thecdil.github.io/oep/howto.html)!
 
-
 ## About the Japanese American Experiences of Internment Inquiry Kit
 
 The University of Idaho Special Collections are home to a number of collections that provide invaluable glimpses into the lives of Japanese Americans incarcerated during World War II. Kooskia, an internment camp that at one point housed 265 Japanese men, is about a two hour drive away from the University of Idaho. 
