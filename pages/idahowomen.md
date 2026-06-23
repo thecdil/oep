@@ -13,6 +13,7 @@ This Idaho Women's History Inquiry Kit highlights digital resources curated with
 The larger collections used in this kit are: 
 - [Rural Women's History Project](https://www.lib.uidaho.edu/digital/rwhp/)
 - [Latah County Oral History Collection](https://www.lib.uidaho.edu/digital/lcoh/)
+- [University of Idaho Women's Center Records](https://www.lib.uidaho.edu/digital/womenscenter/)
 
 
 ## About Idaho Women's History
@@ -21,15 +22,17 @@ The Women's History of Idaho Inquiry Kit highlights digital collections that hig
 
 K-12 learners are often intrigued to learn more about Idaho’s sometimes surprising history of women’s suffrage. Idaho became the fourth state in the nation to grant women the right to vote in 1896—more than twenty years before the 19th Amendment gave many women voting rights nationwide in 1920. Idaho women, such as Rebecca Mitchell, played an active role in organizing, campaigning, and advocating for suffrage, helping shape both state and national conversations about equality and civic participation. 
 
-{% include feature/image.html caption="Mona Graham Hubenthal was a community activist in Lewiston. This image links to an interview in which she discusses her experience with community activism.;Lola Gamble Clyde was a local historian in Moscow. This image links to a section from an interview in which she discusses the women's rights movement." objectid="https://objects.lib.uidaho.edu/rwhp/small/mg68-2-78-mona-graham-hubenthal_sm.jpg;https://objects.lib.uidaho.edu/lcoh/small/Clyde-L_04.jpg" link="https://www.lib.uidaho.edu/digital/rwhp/items/rwhp186.html;https://www.lib.uidaho.edu/digital/lcoh/people/clyde_lola_5.html" %}
+{% include feature/image.html caption="Mona Graham Hubenthal was a community activist in Lewiston. This image links to an interview in which she recounts her experience with community activism.;Lola Gamble Clyde was a local historian in Moscow. This image links to a section from an interview in which she discusses the women's rights movement.;The University of Idaho Women's Center newsletter Fall Semester 2004 which encourages young women to vote and explains the Women's Center's voter registration campaign." objectid="https://objects.lib.uidaho.edu/rwhp/small/mg68-2-78-mona-graham-hubenthal_sm.jpg;https://objects.lib.uidaho.edu/lcoh/small/Clyde-L_04.jpg;https://objects.lib.uidaho.edu/womenscenter/small/ug71_f370-2004fall_sm.jpg" link="https://www.lib.uidaho.edu/digital/rwhp/items/rwhp186.html;https://www.lib.uidaho.edu/digital/lcoh/people/clyde_lola_5.html;https://www.lib.uidaho.edu/digital/womenscenter/items/womenscenter056.html" %}
 
 
 ## Featured Digital Collections
-All of the linked Digital Collections follow a pretty standard format. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at How To use [link](https://thecdil.github.io/oep/howto.html).
+All of the linked Digital Collections follow a pretty standard format. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How To Use](https://thecdil.github.io/oep/howto.html).
 
 ### Rural Women's History Project
 
-The link below will take you the Rural Women's History Project. This collection consists of a collection of interviews that were designed and carried out by the [University of Idaho Women's Center](https://www.lib.uidaho.edu/digital/womenscenter/) in 1974 and selected to be digitized in 1974. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How to Use](https://thecdil.github.io/oep/howto.html).
+The link below will take you the Rural Women's History Project. This collection consists of a collection of interviews that were designed and carried out by the University of Idaho Women's Center in 1974 and selected to be digitized in 1974.
+
+You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How to Use](https://thecdil.github.io/oep/howto.html).
 
 {% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/rwhp/" color="success" centered=true %}
 
@@ -41,15 +44,28 @@ These are some highlighted items from the collection.
 
 ### Latah County Oral History Collection
 
-The link below will take you the Latah County Oral History Collection. This collection contains interviews with over 200 Idahoans which were recorded in the 1970s. The nearly 600 hours of oral history in this collection depict life in the Inland Northwest from the end of the 19th through the early 20th century.”  You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How to Use](https://thecdil.github.io/oep/howto.html)..
+The link below will take you the Latah County Oral History Collection. This collection contains interviews with over 200 Idahoans which were recorded in the 1970s. The nearly 600 hours of oral history in this collection depict life in the Inland Northwest from the end of the 19th through the early 20th century.” 
 
-{% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/barstock/" color="success" centered=true %}
+You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How to Use](https://thecdil.github.io/oep/howto.html).
+
+{% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/lcoh/" color="success" centered=true %}
 
 #### Highlighted Items
 
 
 {% include feature/image.html objectid="https://objects.lib.uidaho.edu/lcoh/Lew-Mi_06_lg.jpg;/objects/oslund.jpg;/objects/justice.jpg" link="https://www.lib.uidaho.edu/digital/lcoh/people/lew_miandmarie_1.html;https://www.lib.uidaho.edu/digital/lcoh/people/oslund_anna_1.html;https://www.lib.uidaho.edu/digital/lcoh/people/justice_lena_1.html" caption="An interview with Mi and Marie Lew in which they recount the experiences of a Chinese immigrant family.;An interview with Anna Marie Oslund in which she recounts the experiences of a Swedish immigrant family.;An interview with Lena Erickson Justice, who discusses her work as a flunkey in a logging camp." alt="A young couple sit together in an outdoor area.;The name Oslund in white font on a blue background.;The name Justice in white font on a blue background." %}
 
+### University of Idaho Women's Center Records
+
+The link below will take you to the University of Idaho Women's Center Records collection. This digital collection is comprised of about 500 newsletter and photographs from the U of I women's Center, from the 1970s through 2022.
+
+You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How to Use](https://thecdil.github.io/oep/howto.html).
+
+{% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/womenscenter/" color="success" centered=true %}
+
+#### Highlighted Items
+
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/womenscenter/small/ug71_f364-1972nov_sm.jpg;https://objects.lib.uidaho.edu/womenscenter/small/Wilma-Scott-Heide-WC-program-1973_sm.jpg;https://objects.lib.uidaho.edu/womenscenter/small/ug71_b11_f383-005_sm.jpg" link="https://www.lib.uidaho.edu/digital/womenscenter/items/womenscenter418.html;https://www.lib.uidaho.edu/digital/womenscenter/items/womenscenter521.html;https://www.lib.uidaho.edu/digital/womenscenter/items/womenscenter212.html" caption="An early newsletter from the Women's Center which encourages readers to visit the Center and announces upcoming events.;Wilma Scott Heide, president of the National Organization for Women, speaking at a program sponsored by the Women's Center in 1973.;Scene from the inauguration of Elizabeth Zinser, the first woman president of the University of Idaho." alt="A young couple sit together in an outdoor area.;The name Oslund in white font on a blue background.;The name Justice in white font on a blue background." %}
 
 
 ## Relevant standards
