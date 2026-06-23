@@ -48,15 +48,15 @@ The link below will take you the Latah County Oral History Collection. This coll
 #### Highlighted Items
 
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/lcoh/Lew-Mi_06_lg.jpg;/objects/oslund.jpg;/objects/justice.jpg" link="https://www.lib.uidaho.edu/digital/lcoh/people/lew_miandmarie_1.html;https://www.lib.uidaho.edu/digital/lcoh/people/oslund_anna_1.html;https://www.lib.uidaho.edu/digital/lcoh/people/justice_lena_1.html" caption="An interview with Mi and Marie Lew in which they recount the experiences of a Chinese immigrant family.;An interview with Anna Marie Oslund in which she recounts the experiences of a Swedish immigrant family.;An interview with Lena Erickson Justice, who discusses her work as a flunkey in a logging camp." alt="A young couple sit together in an outdoor area.;The front page of a document titled Guide to the Latah County, Idaho Oral History Collection.;The front page of a document titled Guide to the Latah County, Idaho Oral History Collection." %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/lcoh/Lew-Mi_06_lg.jpg;/objects/oslund.jpg;/objects/justice.jpg" link="https://www.lib.uidaho.edu/digital/lcoh/people/lew_miandmarie_1.html;https://www.lib.uidaho.edu/digital/lcoh/people/oslund_anna_1.html;https://www.lib.uidaho.edu/digital/lcoh/people/justice_lena_1.html" caption="An interview with Mi and Marie Lew in which they recount the experiences of a Chinese immigrant family.;An interview with Anna Marie Oslund in which she recounts the experiences of a Swedish immigrant family.;An interview with Lena Erickson Justice, who discusses her work as a flunkey in a logging camp." alt="A young couple sit together in an outdoor area.;The name Oslund in white font on a blue background.;The name Justice in white font on a blue background." %}
 
 
 
-## Relevant standard
+## Relevant standards
 
-4.SS.1.2.3 Analyze and describe the different immigrant experiences across Idaho.
-9-12.US2.2 Evaluate Progressive's impact, re: Prohibition and Women's Suffrage
-6-12.HT1.4 Construct and/or communicate a historical argument using primary and secondary sources.
+- 4.SS.1.2.3 Analyze and describe the different immigrant experiences across Idaho.
+- 9-12.US2.2 Evaluate Progressive's impact, re: Prohibition and Women's Suffrage
+- 6-12.HT1.4 Construct and/or communicate a historical argument using primary and secondary sources.
 
 ### Suggest a standard
 
