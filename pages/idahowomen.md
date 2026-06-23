@@ -11,7 +11,7 @@ permalink: /idahowomen.html
 This Idaho Women's History Inquiry Kit highlights digital resources curated with Idaho educators in mind. This page features basic context about a specific Idaho historical event or topic, highlighted librarian-curated items, and links to larger collections teachers and students can explore.
 
 The larger collections used in this kit are: 
-- [Rural Women's History Project](https://www.lib.uidaho.edu/digital/rwhp/),
+- [Rural Women's History Project](https://www.lib.uidaho.edu/digital/rwhp/)
 - [Latah County Oral History Collection](https://www.lib.uidaho.edu/digital/lcoh/)
 
 
@@ -41,20 +41,22 @@ These are some highlighted items from the collection.
 
 ### Latah County Oral History Collection
 
-The link below will take you the Barnard-Stockbridge Photograph Collection. The epicenter of the 1910 forest fire was Wallace, Idaho. Luckily for researchers, Wallace was also home to the Barnard-Stockbridge photography studio, which captured thousands of images of the area before, during, and after the “Big Burn.”  You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at this ~ link to be created ~ .
+The link below will take you the Latah County Oral History Collection. This collection contains interviews with over 200 Idahoans which were recorded in the 1970s. The nearly 600 hours of oral history in this collection depict life in the Inland Northwest from the end of the 19th through the early 20th century.”  You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How to Use](https://thecdil.github.io/oep/howto.html)..
 
 {% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/barstock/" color="success" centered=true %}
 
 #### Highlighted Items
 
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock915.jpg;https://objects.lib.uidaho.edu/barstock/barstock1043.jpg;https://objects.lib.uidaho.edu/barstock/barstock3694.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock915.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock1043.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock3694.html" caption="An image of Wallace, Idaho in 1909. The view is from the water tank, looking Northwest at the town.;Photo of a group of four men who saved 40 men in the forest fire of 1910.;An exterior view of the Worstell Company store in Wallace, Idaho, after the Big Burn forest fire of 1910." alt="A black-and-white photograph from above a small mountain town.;A black-and-white photograph of four men posing and facing the camera. One man sits on a wooden chair and the others stand behind him;A black-and-white photo of a brick building with burn marks and broken windows. The building is on a downtown street where a few people are walking." %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/lcoh/Lew-Mi_06_lg.jpg;/objects/oslund.jpg;/objects/justice.jpg" link="https://www.lib.uidaho.edu/digital/lcoh/people/lew_miandmarie_1.html;https://www.lib.uidaho.edu/digital/lcoh/people/oslund_anna_1.html;https://www.lib.uidaho.edu/digital/lcoh/people/justice_lena_1.html" caption="An interview with Mi and Marie Lew in which they recount the experiences of a Chinese immigrant family.;An interview with Anna Marie Oslund in which she recounts the experiences of a Swedish immigrant family.;An interview with Lena Erickson Justice, who discusses her work as a flunkey in a logging camp." alt="A young couple sit together in an outdoor area.;The name Oslund in white font on a blue background.;The name Justice in white font on a blue background." %}
 
 
 
-## Relevant standard
+## Relevant standards
 
-4.SS.1.2.2 Describe the role of fur trading and the discovery of gold and silver in the settlement of Idaho
+- 4.SS.1.2.3 Analyze and describe the different immigrant experiences across Idaho.
+- 9-12.US2.2 Evaluate Progressive's impact, re: Prohibition and Women's Suffrage
+- 6-12.HT1.4 Construct and/or communicate a historical argument using primary and secondary sources.
 
 ### Suggest a standard
 
