@@ -35,11 +35,16 @@ For many K-12 learners, visiting a digital collection like those highlighted bel
 
 ## Featured Digital Collections
 
-### Kooskia Internment Camp Scrapbook 
+### Kooskia Internment Camp Scrapbook
+Following the Japanese attack on Pearl Harbor on December 7, 1941, President Roosevelt issued Executive Order 9066 which called for the incarceration of more than 100,000 Japanese and Japanese-Americans living in the US. In addition to Relocation Centers, commonly known as internment camps, the government operated Detention Camps for those people of Japanese descent categorized as disruptive. One such camp was located in Kooskia, Idaho.
 
-The link below will take you to the [Kooskia Internment Camp Scrapbook](https://www.lib.uidaho.edu/digital/kooskia/). This collection documents the daily lives of Japanese American men living at Kooskia from May 1943 to May 1945. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, on our how too guide[how to guide](https://thecdil.github.io/oep/howto.html).
+You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How To Use](https://thecdil.github.io/oep/howto.html).
 
 {% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/kooskia/" color="success" centered=true %}
+
+#### Highlighted Items
+
+{% include feature/image.html caption="A hand drawn picture of buildings and a bridge at Kooskia, signed by Toshio Sumida.;A group of men eating New Years dinner at Kooskia.;A U.S. Department of Justice sign at Kooskia Internment Camp." objectid="https://objects.lib.uidaho.edu/kooskia/small/pg103_box1_page27_a_sm.jpg;https://objects.lib.uidaho.edu/kooskia/small/pg103_box1_page11_a_sm.jpg;https://objects.lib.uidaho.edu/kooskia/small/pg103_box1_page02_a_sm.jpg" link="https://www.lib.uidaho.edu/digital/kooskia/items/kooskia104.html;https://www.lib.uidaho.edu/digital/kooskia/items/kooskia816.html;https://www.lib.uidaho.edu/digital/kooskia/items/kooskia786.html" %}
 
 #### Highlighted Items
 
