@@ -70,9 +70,6 @@ You can learn more about how to navigate a digital collection, with K-12 teachin
 
 
 
-
-These are some highlighted items from the collection. Maybe we expand to include more librarian notes/context?
-
 ### Kooskia Internment Camp Scrapbook
 Following the Japanese attack on Pearl Harbor on December 7, 1941, President Roosevelt issued Executive Order 9066 which called for the incarceration of more than 100,000 Japanese and Japanese-Americans living in the US. In addition to Relocation Centers, commonly known as internment camps, the government operated Detention Camps for those people of Japanese descent categorized as disruptive. One such camp was located in Kooskia, Idaho.
 
