@@ -28,9 +28,8 @@ Although there were a number of Justice Department internment camps throughout t
 
 For many K-12 learners, visiting a digital collection like those highlighted below helps provide perspective, detail, and localizing context to an important historical event that is often only minimally covered in standard curriculums. 
 
-~Still needs to update~
-
-{% include feature/image.html caption="An image of African American soldiers from the 25th Infantry, known as Buffalo Soldiers in a work site near Avery, ID. In August, 1910, four thousand soldiers were brought in to help fight the fire, including seven companies from the 25th Infantry, often better known as the Buffalo Soldiers. Across the West, these soldiers served as the first park rangers, and the iconic Park Service hats—including that worn by Smokey Bear—are modeled after the hats worn by Buffalo Soldiers at the time (which can be seen in this photograph).;Forest ranger Edward Pulaski was leading a 45-man crew on August 20th, 1910 when forest fires overwhelmed them along Placer Creek, near Wallace, Idaho. In an act of quick thinking, Pulaski led his team to an abandoned mine tunnel to shelter from the intense heat and smoke of the flames. All but six men survived thanks to his leadership and knowledge of the forest and fire. The conditions he saw during the 1910 fire inspired him to invent the Pulaski firefighting axe, which has a broad horizontal blade on one side for digging and a sharp vertical blade on the other for chopping.;The fire being put out at the Ryan Hotel on Cedar Street in Wallace, Idaho." objectid="https://cdil.lib.uidaho.edu/fire-lines/objects/small/im-33_sm.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn35.jpg;https://objects.lib.uidaho.edu/barstock/barstock1691.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/im-33.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn35.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock1691.html" %}
+{% include feature/image.html 
+caption="Image of people being transported in vehicles on road beside the Lochsa River near the Kooskia Internment Camp.;A group photograph of the workers of the Kooskia Internment Camp beside the Lochsa River. Sandbags can be seen in the foreground alongside the river.; Image of sign at Kooskia Internment Camp reading: U.S. Department of Justice Kooskia Internment Camp Reservation for next 3 miles. No admission except on official business." objectid="https://objects.lib.uidaho.edu/kooskia/small/pg103_box1_page38_b_sm.jpg;https://objects.lib.uidaho.edu/kooskia/small/pg103_box1_page23_a_sm.jpg;https://objects.lib.uidaho.edu/kooskia/small/pg103_box1_page03_a_sm.jpg" link="https://www.lib.uidaho.edu/digital/kooskia/items/kooskia924.html;https://www.lib.uidaho.edu/digital/kooskia/items/kooskia092.html;https://www.lib.uidaho.edu/digital/kooskia/items/kooskia793.html" %}
 
 
 ## Featured Digital Collections
@@ -45,13 +44,6 @@ You can learn more about how to navigate a digital collection, with K-12 teachin
 #### Highlighted Items
 
 {% include feature/image.html caption="A hand drawn picture of buildings and a bridge at Kooskia, signed by Toshio Sumida.;A group of men eating New Years dinner at Kooskia.;A U.S. Department of Justice sign at Kooskia Internment Camp." objectid="https://objects.lib.uidaho.edu/kooskia/small/pg103_box1_page27_a_sm.jpg;https://objects.lib.uidaho.edu/kooskia/small/pg103_box1_page11_a_sm.jpg;https://objects.lib.uidaho.edu/kooskia/small/pg103_box1_page02_a_sm.jpg" link="https://www.lib.uidaho.edu/digital/kooskia/items/kooskia104.html;https://www.lib.uidaho.edu/digital/kooskia/items/kooskia816.html;https://www.lib.uidaho.edu/digital/kooskia/items/kooskia786.html" %}
-
-#### Highlighted Items
-
-These are some highlighted items from the collection. 
-
-~ still need update ~ 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/bigburn/bigburn23.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn11.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn27.jpg" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn23.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn11.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn27.html" caption="A night time image of the forest fire burning buildings in Wallace, Idaho August 20, 1910.;An image of Wallace, Idaho taken five days after the fire of August 20, 1910.;A street view of Wallace, Idaho after the fire of August 20, 1910. People can be seen in the distance assessing the damage." alt="A black-and-white photograph of a building on fire.;A black-and-white photograph of several people looking at burnt buildings in a downtown area.;A black-and-white photograph showing people walking near burnt buildings in a smoky area." %}
 
 
 ### Shitamae Family Letters collection
@@ -75,9 +67,7 @@ The link below will take you to Idaho Histories. Unlike the previous collections
 
 #### Highlighted Items
 
-[Leisure Time at Kooskia](https://uidaho.pressbooks.pub/idahohistories/chapter/ull-scrapbook-page-page-22-leisure-time-at-kooskia/) combines inquiry questions with expert input from University of Idaho faculty.
+The [Leisure Time at Kooskia](https://uidaho.pressbooks.pub/idahohistories/chapter/ull-scrapbook-page-page-22-leisure-time-at-kooskia/) Open Educational Resource combines inquiry questions with expert input from University of Idaho faculty.
 
-~Links to to be updated~ 
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock915.jpg;https://objects.lib.uidaho.edu/barstock/barstock1043.jpg;https://objects.lib.uidaho.edu/barstock/barstock3694.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock915.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock1043.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock3694.html" caption="An image of Wallace, Idaho in 1909. The view is from the water tank, looking Northwest at the town.;Photo of a group of four men who saved 40 men in the forest fire of 1910.;An exterior view of the Worstell Company store in Wallace, Idaho, after the Big Burn forest fire of 1910." alt="A black-and-white photograph from above a small mountain town.;A black-and-white photograph of four men posing and facing the camera. One man sits on a wooden chair and the others stand behind him;A black-and-white photo of a brick building with burn marks and broken windows. The building is on a downtown street where a few people are walking." %}
 
