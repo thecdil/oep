@@ -10,60 +10,64 @@ permalink: /oralhistory.html
 
 This Regional Oral Histories of Idaho Inquiry Kit highlights digital resources curated with Idaho educators in mind. This page features basic context about a specific Idaho historical event, highlighted librarian-curated items, and links to larger collections teachers and students can explore.
 
-The larger collections used in this kit are: [Big Burn Collection](https://www.lib.uidaho.edu/digital/bigburn/), [Barnard-Stockbridge Photograph Collection](https://www.lib.uidaho.edu/digital/barstock/), and [Fire Lines](https://cdil.lib.uidaho.edu/fire-lines/).
+The larger collections used in this kit are:
 
-- Hispanic Oral History Project 
-- Latah County Oral History Collection 
-- Rural Women’s History Project 
+- [Hispanic Oral History Project](#hispanic-oral-history-project) 
+- [Latah County Oral History Collection](#latah-county-oral-history-collection) 
+- [Rural Women’s History Project](#rural-womens-history-project)
 
 
 ## About Regional Oral Histories of Idaho 
 
 Oral histories are a unique form of primary source, adding additional layers of context and relatability to historical events when explored alongside photographs and documents. For K-12 students, the oral delivery of these first-person narratives creates an immersive experience that can inspire curiosity and deeper understanding of the material.  
 
- With the Latah County Oral History Collection, students can hear first-hand accounts of what it was like to live in Idaho through events such as Prohibition and the women’s suffrage movement. Similarly, the Rural Women’s History Project focuses on women’s experiences and roles across rural Idaho and how they’ve changed over time. The Hispanic Oral History Project explores the stories of Hispanic families who immigrated to Idaho, as well as the lives of their local descendants.  
-
-{% include feature/image.html caption="An image of African American soldiers from the 25th Infantry, known as Buffalo Soldiers in a work site near Avery, ID. In August, 1910, four thousand soldiers were brought in to help fight the fire, including seven companies from the 25th Infantry, often better known as the Buffalo Soldiers. Across the West, these soldiers served as the first park rangers, and the iconic Park Service hats—including that worn by Smokey Bear—are modeled after the hats worn by Buffalo Soldiers at the time (which can be seen in this photograph).;Forest ranger Edward Pulaski was leading a 45-man crew on August 20th, 1910 when forest fires overwhelmed them along Placer Creek, near Wallace, Idaho. In an act of quick thinking, Pulaski led his team to an abandoned mine tunnel to shelter from the intense heat and smoke of the flames. All but six men survived thanks to his leadership and knowledge of the forest and fire. The conditions he saw during the 1910 fire inspired him to invent the Pulaski firefighting axe, which has a broad horizontal blade on one side for digging and a sharp vertical blade on the other for chopping.;The fire being put out at the Ryan Hotel on Cedar Street in Wallace, Idaho." objectid="https://cdil.lib.uidaho.edu/fire-lines/objects/small/im-33_sm.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn35.jpg;https://objects.lib.uidaho.edu/barstock/barstock1691.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/im-33.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn35.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock1691.html" %}
-
+ With the Latah County Oral History Collection, students can hear first-hand accounts of what it was like to live in Idaho through events such as Prohibition and the women’s suffrage movement. Similarly, the Rural Women’s History Project focuses on women’s experiences and roles across rural Idaho and how they’ve changed over time. The Hispanic Oral History Project explores the stories of Hispanic families who immigrated to Idaho, as well as the lives of their local descendants. 
 
 ## Featured Digital Collections
 All of the linked Digital Collections follow a pretty standard format. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at this ~ link to be created ~ .
 
 ### Hispanic Oral History Project 
 
-The link below will take you the Big Burn Collection. Designed like a digital museum exhibit, this collection brings together historic photos of the fire and its aftermath, copies of telegrams from those trying to fight the fire, and reflections from people who lived through the event. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at this ~ link to be created ~ .
+Originally produced in 1991, the Hispanic Oral History Project consists of 21 interviews of Hispanic immigrants and descendants who lived in Idaho. The project was sponsored by the Idaho Humanities Council, the Ethnic Heritage Committee of the Idaho Centennial Commission, and the Idaho Commission on Hispanic Affairs. The interviews from this collection resulted in the publication of the book Voces Hispanas: Hispanic Voices of Idaho. The interviews include topics on the Mexican-American and Hispanic-American experience of the interviewees in Idaho, family life, racial discrimination, farming, life during the depression, and education.
 
-{% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/bigburn/" color="success" centered=true %}
+{% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/hohp/" color="success" centered=true %}
 
 #### Highlighted Items
 
 These are some highlighted items from the collection. 
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/bigburn/bigburn23.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn11.jpg;https://objects.lib.uidaho.edu/bigburn/bigburn27.jpg" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn23.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn11.html;https://www.lib.uidaho.edu/digital/bigburn/items/bigburn27.html" caption="A night time image of the forest fire burning buildings in Wallace, Idaho August 20, 1910.;An image of Wallace, Idaho taken five days after the fire of August 20, 1910.;A street view of Wallace, Idaho after the fire of August 20, 1910. People can be seen in the distance assessing the damage." alt="A black-and-white photograph of a building on fire.;A black-and-white photograph of several people looking at burnt buildings in a downtown area.;A black-and-white photograph showing people walking near burnt buildings in a smoky area." %}
+	
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/hohp/small/rita-perez-family-portrait_sm.jpg;https://objects.lib.uidaho.edu/hohp/small/victoria-archuleta-sierra-portrait_sm.jpg;https://objects.lib.uidaho.edu/hohp/small/abel-vasquez-portrait_sm.jpg" 
+link="https://www.lib.uidaho.edu/digital/hohp/items/hohp019.html; https://www.lib.uidaho.edu/digital/hohp/items/hohp037.html; https://www.lib.uidaho.edu/digital/hohp/items/hohp044.html" caption="Pérez Family, from Interview with Rita Pérez.; Interview with Victoria Archuleta Sierra.;Interview with Abel Vásquez." alt="A black-and-white photograph of the extended Pérez family;A black-and-white photograph of Victoria Archuleta Sierra.;A black-and-white photograph of Abel Vásqueze." %}
 
-### Latah County Oral History Collection 
 
-The link below will take you the Barnard-Stockbridge Photograph Collection. The epicenter of the 1910 forest fire was Wallace, Idaho. Luckily for researchers, Wallace was also home to the Barnard-Stockbridge photography studio, which captured thousands of images of the area before, during, and after the “Big Burn.”  You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at this ~ link to be created ~ .
+### Latah County Oral History Collection
 
-{% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/barstock/" color="success" centered=true %}
+The link below will take you the Latah County Oral History Collection. This collection contains interviews with over 200 Idahoans which were recorded in the 1970s. The nearly 600 hours of oral history in this collection depict life in the Inland Northwest from the end of the 19th through the early 20th century.” 
 
-#### Highlighted Items
+You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How to Use](https://thecdil.github.io/oep/howto.html).
 
-These are some highlighted items from the collection. Maybe we expand to include more librarian notes/context?
-
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock915.jpg;https://objects.lib.uidaho.edu/barstock/barstock1043.jpg;https://objects.lib.uidaho.edu/barstock/barstock3694.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock915.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock1043.html;https://www.lib.uidaho.edu/digital/barstock/items/barstock3694.html" caption="An image of Wallace, Idaho in 1909. The view is from the water tank, looking Northwest at the town.;Photo of a group of four men who saved 40 men in the forest fire of 1910.;An exterior view of the Worstell Company store in Wallace, Idaho, after the Big Burn forest fire of 1910." alt="A black-and-white photograph from above a small mountain town.;A black-and-white photograph of four men posing and facing the camera. One man sits on a wooden chair and the others stand behind him;A black-and-white photo of a brick building with burn marks and broken windows. The building is on a downtown street where a few people are walking." %}
-
-### Rural Women’s History Project 
-
-The link below will take you the Fire Lines digital essay. This is a collection of primary sources that informed an essay about how the 1910 fires informed forest management policy throughout the 20th century. You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at this ~ link to be created ~ .
-
-{% include feature/button.html text="Explore the project" link="https://cdil.lib.uidaho.edu/fire-lines/" color="success" centered=true %}
+{% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/lcoh/" color="success" centered=true %}
 
 #### Highlighted Items
 
-These are some highlighted items from the collection. Maybe we expand to include more librarian notes/context?
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/tpa/small/cda_tpa1910_sm.jpg;https://cdil.lib.uidaho.edu/fire-lines/objects/small/when-the-mountains-roared_sm.jpg;/objects/drader_thesis.jpg" link="https://cdil.lib.uidaho.edu/fire-lines/items/cda_tpa1910.html;https://cdil.lib.uidaho.edu/fire-lines/items/im-14.html;https://cdil.lib.uidaho.edu/fire-lines/items/im-15.html" caption="The Coeur d'Alene Timber Protective Association Fifth Annual Report for 1910. This document contains reporting on both the damage from the fires and the fire management processes used.;When the Mountains Roared: Stories of the 1910 Fire. Publication by the US Forest Service. This document was written by the Supervisor of the Lolo Forest 32 years after the 1910 forest fire to serve as an informal record of the fire history of that year.;Nez Perce perspectives on fire management and program accessibility. This Master of Science thesis by Daniella Ruth Lorincz Drader identifies barriers that inhibit access to and participation in current fire management programs as told from the perspectives and experiences of members of the Nez Perce Tribe on their reservation." alt="A cover page featuring a red geometric pattern. Coeur d'Alene Timber Protective Association Fifth Annual Report 1910 is typed in stylized font.;A cover page titled When the Mountains Roared, Stories of the 1910 Fire. United States Department of Agriculture, Forest Service, Idaho Panhandle National Forests. A black-and white image of pine trees surrounded by fire is below the title;A white page displaying bibliographic information. It reads: Nez Perce Perspectives on Fire Management and Program Accessibility by Daniella Ruth Lorincz Drader. A thesis submitted in partial fulfillment of the requirements for the degree of Master of Science in Natural Resource Sciences, Washington State University, Department of Natural Resource Sciences, August 2009." %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/lcoh/Lew-Mi_06_lg.jpg;/objects/oslund.jpg;/objects/justice.jpg" link="https://www.lib.uidaho.edu/digital/lcoh/people/lew_miandmarie_1.html;https://www.lib.uidaho.edu/digital/lcoh/people/oslund_anna_1.html;https://www.lib.uidaho.edu/digital/lcoh/people/justice_lena_1.html" caption="An interview with Mi and Marie Lew in which they recount the experiences of a Chinese immigrant family.;An interview with Anna Marie Oslund in which she recounts the experiences of a Swedish immigrant family.;An interview with Lena Erickson Justice, who discusses her work as a flunkey in a logging camp." alt="A young couple sit together in an outdoor area.;The name Oslund in white font on a blue background.;The name Justice in white font on a blue background." %}
+
+### Rural Womens History Project
+
+The link below will take you the Rural Women's History Project. This collection consists of a collection of interviews that were designed and carried out by the University of Idaho Women's Center in 1974 and selected to be digitized in 1974.
+
+You can learn more about how to navigate a digital collection, with K-12 teaching in mind, at [How to Use](https://thecdil.github.io/oep/howto.html).
+
+{% include feature/button.html text="Explore the collection" link="https://www.lib.uidaho.edu/digital/rwhp/" color="success" centered=true %}
+
+#### Highlighted Items
+
+These are some highlighted items from the collection. 
+
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/rwhp/thumbs/mg68-2-89-index_th.jpg;https://objects.lib.uidaho.edu/rwhp/small/mg68-2-81-mabel-louise-scribner001_sm.jpg;https://objects.lib.uidaho.edu/rwhp/small/mg68-2-80-elsie-nelson_sm.jpg" link="https://www.lib.uidaho.edu/digital/rwhp/items/rwhp338.html;https://www.lib.uidaho.edu/digital/rwhp/items/rwhp346.html;https://www.lib.uidaho.edu/digital/rwhp/items/rwhp279.html" caption="In this interview, Deanna Robbins discusses her life in Moscow. The topics covered include birth, doctors, family life, and the differences between city and country living.; In this interview, Mabel Louise Scribner discusses her life in Avery and St. Maries. The topics covered include American citizenship, recreation, marriage, and domestic work.; In this interview, Elsie Nelson discusses her life near Moscow. The topics covered include homesteading, education, and employment." alt="A typewritten outline of an interview.;A white woman with gray hair and glasses sits on a couch and looks at the camera.;A black-and-white head shot of a white woman with short hair and glasses sitting on a chair." %}
+
 
 ## Relevant standard
 
