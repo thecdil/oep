@@ -20,11 +20,15 @@ University of Idaho digital collections share an underlying template, which make
 
 Up top on a standard collection page you’ll see a few links; Browse is usually the best place to start. Browse basically shows you all the records in that collection, with a little image preview and some basic metadata. You can click keywords to filter by terms, or you can you experiment with typing in a free text search up top. Once you click on a record, you’ll see a larger image along with some basic metadata describing the item. 
 
-~ gif to be created showing browse ~
+{% include feature/image.html objectid="/objects/browse_howto.gif" caption="Collection browse" width="50" %}
 
 Most University of Idaho Digital Collections sites also feature a way to visualize information about the collection, typically a timeline that shows items in chronological order, a map that shows geographic data, and a weighted word cloud that shows how often particular terms occur.  
 
-~ gif to be created showing infovis ~
+{% include feature/image.html objectid="/objects/timeline_howto.gif" caption="Timeline" width="50" %}
+
+{% include feature/image.html objectid="/objects/map_howto.gif" caption="Map" width="50" %}
+
+{% include feature/image.html objectid="/objects/subjects_howto.gif" caption="Subjects cloud" width="50" %}
 
 ## What gets digitized/What is online? 
 
