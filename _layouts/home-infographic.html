@@ -11,13 +11,23 @@ layout: page
       <div class="card-body">
         <h2 class="card-title h5">Description</h2>
         <p class="card-text">This portal has been developed by the library faculty and staff at the University of Idaho. It hosts digital content curated to be of interest and use to K-12 educators in the state of Idaho.</p>
-      <p class="card-text">The  portal contains six inquiry kits: <a href="{{ '/bigburn.html' | relative_url }}" >1910 Fires</a>,  <a href="{{ '/idahowomen.html' | relative_url }}" >Idaho Women's History</a>  <a href="{{ '/jainternment.html' | relative_url }}" >Japanese American Experiences of Internment</a>,  <a href="{{ '/logging.html' | relative_url }}" >Logging in North Idaho</a>,  <a href="{{ '/oralhistory.html' | relative_url }}" >Regional Oral Histories of Idaho</a>,  <a href="{{ '/nationalevents.html' | relative_url }}" > and Idaho Connections to National Events</a> which link to curated primary sources from digital collections.</p>
+      <p class="card-text">The  portal contains six inquiry kits: <a href="{{ '/bigburn.html' | relative_url }}" >1910 Fires</a>,  <a href="{{ '/idahowomen.html' | relative_url }}" >Idaho Women's History</a>  <a href="{{ '/jainternment.html' | relative_url }}" >Japanese American Experiences of Internment</a>,  <a href="{{ '/logging.html' | relative_url }}" >Logging in North Idaho</a>,  <a href="{{ '/oralhistory.html' | relative_url }}" >Regional Oral Histories of Idaho</a>, and <a href="{{ '/nationalevents.html' | relative_url }}" >Idaho Connections to National Events</a> which link to curated primary sources from digital collections.</p>
 
         <p class="card-text mb-4"><a class="btn btn-{{ include.btn-color | default: 'primary' }}" href="{{ '/about.html' | relative_url }}" >Learn More &raquo;</a></p>
       
       </div>
     
   </div>
+
+    <div class="card mb-3">
+      <div class="card-body">
+        <h2 class="card-title h5">How to Use</h2>
+        <p class="card-text">This project aims to connect educators to resources from the University of Idaho's digital collections. The <a href="{{ '/howto.html' | relative_url }}" >How To Use</a> page provides easy instructions for navigating digital collections.</p>
+
+        <p class="card-text mb-4"><a class="btn btn-{{ include.btn-color | default: 'primary' }}" href="{{ '/howto.html' | relative_url }}" >How To Use &raquo;</a></p>
+
+        </div>
+      </div>
 
 {% include index/carousel.html title="Sample Items" %}
 
