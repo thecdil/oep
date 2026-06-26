@@ -24,11 +24,16 @@ Up top on a standard collection page you’ll see a few links; Browse is usually
 
 Most University of Idaho Digital Collections sites also feature a way to visualize information about the collection, typically a timeline that shows items in chronological order, a map that shows geographic data, and a weighted word cloud that shows how often particular terms occur.  
 
-{% include feature/image.html objectid="/objects/timeline_howto.gif" caption="Timeline" width="50" %}
+{% include feature/image.html objectid="/objects/explore_howto.gif" caption="Subjects, map, and timeline features" width="50" %}
 
-{% include feature/image.html objectid="/objects/map_howto.gif" caption="Map" width="50" %}
+### Tips for Navigating Digital Oral Histories
 
-{% include feature/image.html objectid="/objects/subjects_howto.gif" caption="Subjects cloud" width="50" %}
+The University of Idaho's digital archives contain many collection containing oral histories. Many of the oral histories in the U of I's collections are part of the Latah County Oral History Project, and were recorded in the 1070s and digitized in the early 2000s. Many of these recordings are quite long, and some contain material that may not be suitable for the classroom.
+
+Each oral history recording also has a transcript and a search function, which my be useful in finding relevant sections to use in lessons. Please note that the University of Idaho Library is currently working to improve transcripts and many transcripts are not exact reflections of the recording. The U of I Library recommends listening to the audio of a section before using it in a lesson in order to confirm that the material is appropriate.
+
+{% include feature/image.html objectid="/objects/oralhistory_howto.gif" caption="Transcript search feature" width="50" %}
+
 
 ## What gets digitized/What is online? 
 
