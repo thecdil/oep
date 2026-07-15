@@ -69,5 +69,7 @@ The link below will take you to Idaho Histories. Unlike the previous collections
 
 The [Leisure Time at Kooskia](https://uidaho.pressbooks.pub/idahohistories/chapter/ull-scrapbook-page-page-22-leisure-time-at-kooskia/) Open Educational Resource combines inquiry questions with expert input from University of Idaho faculty.
 
+## Suggested Learning Standards 
 
+Suggest learning standards could go here. 
 
