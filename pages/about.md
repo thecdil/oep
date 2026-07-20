@@ -36,4 +36,4 @@ The Idaho Student History hub is  the next iteration of efforts first undertaken
 
 ## Feedback
 
-This site was built with Idaho educators and classrooms in mind. Are you a teacher in Idaho with a few minutes to spare? Let us know what you think of this site via our [short survey](https://forms.cloud.microsoft/r/pMUveT3YE5).
+This site was built with Idaho educators and classrooms in mind. Are you a teacher in Idaho with a few minutes to spare? Let us know what you think of this site via our [short survey](https://forms.cloud.microsoft/r/pMUveT3YE5){:target="_blank"}.
